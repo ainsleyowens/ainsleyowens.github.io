@@ -4,4 +4,4 @@ This is a page where I will share some information about myself and the work tha
 
 ## Work with Penguins
 
-I started learning how to use R by working with the Palmer Penguins data set. I ran an analysis using a small subset of 44 penguins. If you are interested, you can view my analysis [here](https://github.com/ainsleyowens/BioStatisticsAnalysis/PalmerPenguinsAnalysis.html)
+I started learning how to use R by working with the Palmer Penguins data set. I ran an analysis using a small subset of 44 penguins. If you are interested, you can view my analysis [here](https://ainsleyowens.github.io/BioStatisticsAnalysis/PalmerPenguinsAnalysis.html).
