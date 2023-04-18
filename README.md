@@ -1,10 +1,14 @@
 # Ainsley Owens' Webpage
 
-This is a page where I will share some information about myself and the work that I am doing in BioStatistics/BioInformatics. So far, I've done some work to analyze data on Penguins, and I also have done some work to analyze data on Squirrels.
+I am a graduating Biology major at Southern New Hampshire University. This semester, I did some work with BioStatistics/BioInformatics, using RStudio. This is a page where I will share some information about myself and the work that I am doing. So far, I've done some work to analyze data on Penguins, and I also have done some work to analyze data on Squirrels. I completed multiple notebooks working with DNA genomes and the replication origin. This work can all be accessed and viewed through this webpage. 
+
+## About Me
+
+I am a senior at Southern New Hampshire University, graduating with my Bachelor of Science in Biology. Throughout my time at SNHU, my main interest and academic focus has been Human Biology. Post-graduation, I am looking to work in the medical field. Prior to taking this BioInformatics course, I did not have any previous experience with coding, BioStatistics, or RStudio. I am hopeful that the skills and knowledge I attained from this course will be beneficial in my future career.
 
 ## Work with Penguins
 
-I started learning how to use R by working with the Palmer Penguins data set. I ran an analysis using a small subset of 44 penguins. If you are interested, you can view my analysis [here](https://ainsleyowens.github.io/BioStatisticsAnalysis/PalmerPenguinsAnalysis.html).
+I started learning how to use R by working with the Palmer Penguins data set. During this project, I learned and practiced the basics of R. I ran an analysis using a small subset of 44 penguins. If you are interested, you can view my analysis [here](https://ainsleyowens.github.io/BioStatisticsAnalysis/PalmerPenguinsAnalysis.html).
 # Work with Squirrels
 I then continued learning how to use R by working with the NYC Squirrels Census data set. I ran an analysis on 2,373 squirrels. If you are interested, you can view my analysis [here](https://ainsleyowens.github.io/BioStatisticsAnalysis/SquirrelAnalysis.html).
 
