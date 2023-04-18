@@ -4,13 +4,14 @@ I am a graduating Biology major at Southern New Hampshire University. This semes
 
 ## About Me
 
-I am a senior at Southern New Hampshire University, graduating with my Bachelor of Science in Biology. Throughout my time at SNHU, my main interest and academic focus has been Human Biology. Post-graduation, I am looking to work in the medical field. Prior to taking this BioInformatics course, I did not have any previous experience with coding, BioStatistics, or RStudio. I am hopeful that the skills and knowledge I attained from this course will be beneficial in my future career.
+I am a senior at Southern New Hampshire University, graduating with my Bachelor of Science in Biology and a minor in Public Health. Throughout my time at SNHU, my main interest and academic focus has been Human Biology. Post-graduation, I am looking to work in the medical field. Prior to taking this BioInformatics course, I did not have any previous experience with coding, BioStatistics, or RStudio. I am hopeful that the skills and knowledge I attained from this course will be beneficial in my future career.
 
 ## Work with Penguins
 
-I started learning how to use R by working with the Palmer Penguins data set. During this project, I learned and practiced the basics of R. I ran an analysis using a small subset of 44 penguins. If you are interested, you can view my analysis [here](https://ainsleyowens.github.io/BioStatisticsAnalysis/PalmerPenguinsAnalysis.html).
+I started learning how to use R by working with the Palmer Penguins data set. During this project, I learned and practiced the basics of R. I ran an analysis using a small subset of 44 penguins. I ran this analysis by using R to organize the data into lists by species, geographical location, sex, and size. Using some newly learned functions of R, I was able to determine how physical features like bill length, flipper length, and body size varied by species and sex. I also created graphs and tables to visualize this data. If you are interested, you can view my analysis [here](https://ainsleyowens.github.io/BioStatisticsAnalysis/PalmerPenguinsAnalysis.html).
+
 # Work with Squirrels
-I then continued learning how to use R by working with the NYC Squirrels Census data set. I ran an analysis on 2,373 squirrels. If you are interested, you can view my analysis [here](https://ainsleyowens.github.io/BioStatisticsAnalysis/SquirrelAnalysis.html).
+I then continued learning how to use R by working with the NYC Squirrels Census data set. I ran an analysis on 2,373 squirrels. I organized the data by several factors; fur color, age, and behavior. I also analyzed how behavior differs based on age and time of day. If you are interested, you can view my analysis [here](https://ainsleyowens.github.io/BioStatisticsAnalysis/SquirrelAnalysis.html).
 
 ## Work with Genomes
 
